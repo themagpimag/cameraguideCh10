@@ -1,5 +1,5 @@
 # smartdoor
-Code to accompany the smart door tutorial in The Official Raspberry Pi Camera Guide
+Code to accompany the smart door tutorial in The Official Raspberry Pi Camera Guide https://magpi.raspberrypi.org/books/camera-guide
 
 ### Looking for the Webapp?
 
